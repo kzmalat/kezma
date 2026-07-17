@@ -1,0 +1,2 @@
+# kezma
+my first repository
