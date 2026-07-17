@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Kezmalati Enterprise Security Doors</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Kezmalati Enterprise Security Doors</h1>
+    <p>Premium Security Doors for Homes & Businesses</p>
+</header>
+
+<section class="hero">
+
+    <h2>Secure Your Home with Confidence</h2>
+
+    <p>
+        We supply and install premium-quality security doors that combine
+        safety, elegance, and durability.
+    </p>
+
+    <button onclick="contactUs()">
+        Contact Us
+    </button>
+
+</section>
+
+<section>
+
+<h2>Our Services</h2>
+
+<div class="card">
+
+<h3>Security Doors</h3>
+
+<p>
+High-quality imported security doors.
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Installation</h3>
+
+<p>
+Professional installation services.
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Maintenance</h3>
+
+<p>
+Door servicing and repairs.
+</p>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 Kezmalati Enterprise Security Doors
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+<!-- =================================== -->
+<!-- PASTE HUBSPOT CODE HERE             -->
+<!-- =================================== -->
+
+<!-- Example -->
+<!--
+<script
+type="text/javascript"
+id="hs-script-loader"
+async
+defer
+src="//js.hs-scripts.com/12345678.js">
+</script>
+-->
+
+</body>
+</html>
